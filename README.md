@@ -20,6 +20,6 @@ Este proyecto es un bot de WhatsApp creado con Node.js y la biblioteca Baileys. 
 
 1. Clona este repositorio en tu máquina local:
     ```sh
-    git clone https://github.com/JSOJSOJSO/RepositorioWhatsApp.git
-    cd RepositorioWhatsApp
+    git clone https://github.com/JSOJSOJSO/mi-bot-whatsapp.git
+    cd mi-bot-whatsapp.git
     ```
