@@ -1,0 +1,11 @@
+services:
+    - name: whatsapp-bot
+      ports:
+          - port: 3000
+            http: true
+      env:
+          - name: NODE_ENV
+            value: production
+      scalings:
+          min: 1
+          max: 1
